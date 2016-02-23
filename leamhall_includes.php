@@ -102,7 +102,7 @@ print_r ($jobs);
 */
 
 $cert_edu_community = array(
-	"Red Hat Certified Engineer",
+	"Red Hat Certified Engineer (2003)",
   "LPIC-1",
   "Puppet Professional training",
 	"ITIL v3 Foundation",
