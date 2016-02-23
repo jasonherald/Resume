@@ -1,0 +1,172 @@
+Leam Hall
+
+161-B Crow Drive
+Leesburg, GA 31763
+
+704.607.6747
+leamhall@gmail.com
+	
+Red Hat Certified Engineer
+Linux LPIC-1
+ITIL v3 Foundation
+Security+
+Active DoD Clearance
+DoD 8570 IAT Level II Compliant
+Certified Associate in Project Management (In progress)
+
+
+Summary:
+	I am a problem solver. As a change agent I engage stake-holders, save money, focus on business needs, and follow through. Skill domains are Computer and Network Operations in web facing and very large enterprise environments.;
+
+
+Skills:
+
+Red Hat Linux 	
+Team Leadership 	
+Networking (Cisco)
+Shell Scripting 	
+Mentoring 	
+Classified systems
+Build Automation 	
+Documentation 	
+24/7 Response
+Very Large Enterprise 	
+Lights-Out Datacenter 	
+Commercial Unix
+
+
+
+Professional Experience
+
+
+Project Manager (Network Engineering Team)
+	Smartronix (May 10 - present)
+
+Led the five person team that supported Cisco networking devices including IOS upgrades, enterprise reconfiguration, and documentation. Experienced a 50% increase in network devices, removed over one half mile of unused cable and hundreds of defunct network drops, and brought a completely unsupported network infrastructure into enterprise compliance. Commended by higher headquarters auditing staff on network security posture and documentation. Provided business case and garnered customer support for a scheduled network outage affecting several dozen applications.
+
+Cisco IOS 12.2(x).
+
+
+
+Team Lead (Linux/Unix)
+	Smartronix (Apr 09 - present)
+
+Led a four person team that supported a 1:45 admin to server ratio, met stringent security requirements, tripled server count with reduced staff, and dealt with a high rate of turnover due to contract requirements. Served as a Task Force Leader during three full datacenter outages. Provided business case and initial leadership for a cross-function team that eliminated hundreds of long standing security vulnerabilities. The team was formalized in the contract re-write.
+
+Red Hat Enterprise Linux 3, 4, 5. Solaris 10. HP/UX 11.0-11.31. EMC Powerpath. HP DL, ML, PA-RISC and Itanium, Dell 2x50, 6x50. Supported Oracle 10 RAC, Apache, Tomcat, Oracle Application Server, and COTS.
+
+
+
+Senior Systems Engineer
+	Independent Contractor (Sep 08-Apr 09)
+
+Automated processes, wrote standards, and trained System Admins. Provided written evaluations of vendor software. Supported OS testing team.
+
+Red Hat Enterprise Linux 3, 4, Solaris 10, Fedora.
+
+
+
+Senior Systems Engineer
+	Wachovia Bank (Dec 05-Aug 08)
+
+Developed interdisciplinary customer feedback loop for the Distributed Systems Engineering team. Automated processes, wrote standards, and trained incoming engineers. Provided on-call centralized security application support for 3,000+ servers. Provided written evaluations of vendor software.
+
+Red Hat Enterprise Linux 2, 3, 4, 5. Solaris 8, 9, 10. HP/UX 11.0-11.31. SuSE Linux Enterprise Server (SLES) 8, 9, 10. HP DL, ML, and PA-RISC, Dell 2x50, 6x50.
+
+
+
+Systems Engineer
+	Bank of America (Apex Systems) (May 05-Dec 05)
+
+Automated processes, wrote standards, and trained incoming engineers. Build, configure, and trouble-shoot large scale datacenter.
+
+Red Hat Enterprise Linux 2, 3, 4. Solaris 8, 9, 10. HP/UX 11.0-11.31. EMC Powerpath. IBM Blade Chassis. Fujitsu Primepower, Sun mid-range, and IBM Power servers. HP DL, ML, Dell 2x50, 6x50.
+
+
+
+Senior Unix Engineer
+	Transamerica Reinsurance, Inc. (Contractor) (Sep 04-May 05)
+
+Commended by parent company for automation of Solaris Jumpstart and Red Hat Kickstart implementation and procedures. Configured Apache and Tomcat to support application development team's needs.
+
+Solaris 2.5, 6, 7, 8, 9. Red Hat Enterprise Linux 2, 3, 4. Supported: Oracle 7, 8. Veritas Volume Manager/Filesystem 2.x, 3.x. Sendmail, Apache, Tomcat.
+
+
+
+Senior Unix Engineer
+	Wall Street Journal/Dow Jones, Inc. (Jan 01-Sep 04)
+
+Saved ~$200,000 by providing Application Development team custom software to increase availability. Analyzed life-cycle server configurations to save $120,000 in license costs. Automated Solaris Jumpstart and Red Hat Kickstart implementation and procedures. Automated Solaris Jumpstart and Red Hat Kickstart implementation and procedures. Reduced n-tiered 30 minute SLAs to a 3 minute response time with direct hand-off, 24x7x365.25.
+
+Solaris 2.4, 2.5, 6, 7, 8, 9. Red Hat Enterprise Linux 2, 3, 4. Sun Cluster 2.2. Legato backup. Supported: Oracle 7, 8. Vignette Story Server. Veritas Volume Manager/Filesystem 2.x, 3.x. Sendmail, Apache, Tomcat.
+
+
+
+Senior Unix Engineer
+	Rosenbluth International (May 00 - Dec 00)
+
+Standardized deployment process for application software. Investigated VM solutions for datacenter.
+
+Solaris 7, 8, 9. Red Hat Enterprise Linux 3. Legato backup. Supported: Oracle 7, 8. Veritas Volume Manager/Filesystem 2.x, 3.x. Sendmail, Apache, Tomcat.
+
+
+
+Team Lead
+	Bell Atlantic/Verizon (TekSystems, Inc.) (Aug 99-May 00)
+
+Team Lead for the Bell Atlantic Distributed Software Operations-Software Deployment ISO 9002 certified group responsible for deploying over 70 application packages and software/OS upgrades to more than 1100 production Unix (Solaris, HP-UX) servers in the North-Eastern US region. Responsibilities included building and modifying shell scripts, performing remote software deployments, supervising six deployment specialists, troubleshooting server and package errors, coordinating 150+ item change control procedures, and recovering from outages in minimal time. Built a certification resource web site, trained new hires, wrote a Tk based graphical interface to unify existing scripts, taught basic HTML, introduced software version control, and improved the workload assignment process.
+
+Solaris 6, 7, 8. HP/UX
+
+
+
+Team Lead
+	Wall Street Journal/Dow Jones Inc. (TekSystems, Inc.) (Sep 98-Aug 99)
+
+Saved over $75,000 in new-hire costs by analyzing, communicating, and tracking required production support skills on limited use software. Level 2 support for print Journal. Documented improved server configurations to eliminate unnecessary licenses.
+
+Solaris 6, 7, 8. Legato backup. Veritas Volume Manager/Filesystem 2.x, 3.x.
+
+
+
+Unix Engineer
+	Independent Contractor (Jun 98-Sep 98)
+
+Documented improved server configurations to fix backup issues. Configured Apache.
+
+Red Hat Linux 3, 4, 5, 6, 7, 8, 9. SCO Unix. Sendmail, Apache, Tomcat.
+
+
+
+Linux Admin
+	Spidernet s.r.l (Apr 97-May 98)
+
+Configured Apache to support application development team's needs. Took ownership of OS and hardware production issues and channeled application issues to specialists.
+
+Solaris 2.5. Red Hat Linux 3, 4, 5, 6. Sendmail, Apache, Tomcat.
+
+
+
+Director of Operations 	City of Glenarden, MD (Feb 94-Feb 95)
+Served as Acting City Manager. Supervised 5 direct reports and 32 total staff.
+
+
+
+Small Business Manager 	Entrepreneur (May 90-Feb 94)
+Ran a training business that met a 700% student increase in 13 months. Added revenue streams for related products without requiring large inventory loads.
+
+
+
+Operations Section Manager 	U.S. Air Force (Apr 82-Sep 92)
+Training supervisor for Southern Command AF Disaster Response personnel, first-responder to critical incidents.
+
+
+Education/Certification
+
+Red Hat Certified Engineer
+LPIC-1
+Sun Certified Solaris 7 System Administrator
+ITIL v3 Foundation
+Security+
+Master of Arts Public Administration, Midwestern State Univ., Texas (1995)
+Bachelor of Science Liberal Arts, Regents College, New York (1993) 
