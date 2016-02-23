@@ -45,7 +45,7 @@ print<<<_HTML_
 <br>
 <p>Leam
 
-<p><i>p.s. You can see what people say about my work on <a href="http://www.linkedin.com/in/leamhall">LinkedIn</a></i>
+<p><i>p.s. You can see what people say about my work on <a href="http://www.linkedin.com/in/leamhall">LinkedIn</a>. You can also see my code on <a href="http://www.github.com/LeamHall">GitHub</a>.</i>
 
 <br>
 <br>
@@ -68,4 +68,3 @@ print<<<_HTML_
 _HTML_
 
 ?>
-
